@@ -11,16 +11,16 @@ This is a work in progress, I will add more stuff as I go.
 What you need to know:
 
 - Full screen apps sucks, don’t press the green maximize button.
-- Almost everything you used to use Ctrl for, is now Cmd
-- Home + End (goto start / end of line) → Cmd + Arrow keys
-- Switch language → The default is ctrl + space, I suggest changing it to option + space since ctrl + space is reserved for vscode autocompletion.
-- Don’t use the dock to launch apps, get used to do everything with Spotlight (default) or Raycast (recommended) by pressing cmd+space
-- Cmd + W closes windows, Cmd + Q closes apps
+- Almost everything you used to use `Ctrl` for, is now `Cmd`
+- `Home` + `End` (goto start / end of line) → `Cmd + Arrow keys`
+- Switch language → The default is `Ctrl + Space`, I suggest changing it to `Option + Space` since `Ctrl + Space` is reserved for vscode autocompletion.
+- Don’t use the dock to launch apps, get used to do everything with Spotlight (default) or Raycast (recommended) by pressing `Cmd+Space`
+- `Cmd + W` closes windows, `Cmd + Q` closes apps
     - Apps can stay open even when there are no windows
         
         Its common to open an app (say, WhatsApp) and close its windows, the app will remain open, it just won’t have any windows.
         
-- Finder (mac’s version of Explorer.exe) sucks, don’t use it unless you have to, prefer using the terminal.
+- Finder (mac’s version of `Explorer.exe`) sucks, don’t use it unless you have to, prefer using the terminal.
   - If using my configuration, use `br` to find directories.
 - When you are in terminal - you can use `open <path>` to open the path in finder / default app for this file.
     - For example, I can open the current working directory by entering `open .`
@@ -46,7 +46,7 @@ What you need to know:
 | [Raycast](https://raycast.com)                               | The holy grail of all tools, a must have launcher, it handles<br>1. Application launching <br>2. Windows switching<br>3. Windows management<br>4. Base64/Hex encode-decode<br>5. Easy to use MFA<br>6. Clipboard history<br>7. Calculator & converter<br>8. More!<br> |
 | [AltTab](https://alt-tab-macos.netlify.app)                  | A better CMD+Tab, it switches between windows instead of apps.                                                                                                                                                                                                        |
 | [Iterm2](https://iterm2.com)                                 | A much better terminal.<br>Recommended profile: [Default.json](iterm/Default.json)                                                                                                                                                                                                                                               |
-| [CapsLockNoDelay](https://gituhb.com/gkpln3/CapsLockNoDelay) | For some reason there is a delay when you press the caps lock key to activate it, this tool disables it.<br>Also open source and is written by [@gkpln3](https://github.com/gkpln3) 🙂                                                                                  |
+| [CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay) | For some reason there is a delay when you press the caps lock key to activate it, this tool disables it.<br>Also open source and is written by [@gkpln3](https://github.com/gkpln3) 🙂                                                                                  |
 
 
 ### Terminal stuff

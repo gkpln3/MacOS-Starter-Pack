@@ -1,0 +1,163 @@
+{
+  "[dart]": {
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false,
+    "editor.selectionHighlight": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [
+      80
+    ],
+    "editor.tabSize": 2
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "editor.suggestSelection": "first",
+  "editor.accessibilitySupport": "off",
+  "go.formatTool": "gofmt",
+  "files.hotExit": "off",
+  "diffEditor.wordWrap": "off",
+  "security.workspace.trust.untrustedFiles": "open",
+  "bookmarks.saveBookmarksInProject": true,
+  "editor.snippetSuggestions": "top",
+  "telemetry.telemetryLevel": "off",
+  "errorLens.enabledDiagnosticLevels": [
+    "warning",
+    "info",
+    "error"
+  ],
+  "markdown-preview-enhanced.codeBlockTheme": "github.css",
+  "[xml]": {
+    "editor.defaultFormatter": "DotJoshJohnson.xml"
+  },
+  "redhat.telemetry.enabled": false,
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "markdown.marp.enableHtml": true,
+  "errorLens.enabled": false,
+  "diffEditor.renderSideBySide": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "explorer.confirmDragAndDrop": false,
+  "errorLens.excludePatterns": [
+    "*.md"
+  ],
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
+  "git.ignoreMissingGitWarning": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "jupyter.askForKernelRestart": false,
+  "lldb.launch.terminal": "integrated",
+  "bookmarks.sideBar.expanded": true,
+  "editor.formatOnPaste": false,
+  "python.languageServer": "Pylance",
+  "lldb.commandCompletions": false,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.multiCursorModifier": "alt",
+  "editor.inlineSuggest.enabled": true,
+  "editor.suggestOnTriggerCharacters": true,
+  "git.autofetch": true,
+  "terminal.integrated.scrollback": 100000,
+  "java.semanticHighlighting.enabled": true,
+  "terminal.external.osxExec": "iTerm.app",
+  "window.autoDetectColorScheme": true,
+  "cSpell.enableFiletypes": [
+    "!markdown",
+    "!yaml"
+  ],
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+    "editor.quickSuggestions": {
+      "strings": "off",
+      "other": "off",
+      "comments": "off"
+    },
+    "editor.wordWrap": "on"
+  },
+  "window.closeWhenEmpty": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": true,
+    "plaintext": true,
+    "markdown": true,
+    "scminput": false,
+    "csharp": true,
+    "go": true
+  },
+  "dart.debugExternalLibraries": false,
+  "dart.warnWhenEditingFilesInPubCache": false,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": false
+  },
+  "gitlens.codeLens.enabled": false,
+  "git.mergeEditor": false,
+  "editor.stickyScroll.enabled": true,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "clangd.onConfigChanged": "restart",
+  "git.confirmSync": false,
+  "git.openRepositoryInParentFolders": "never",
+  "yaml.customTags": [
+    "!And",
+    "!And sequence",
+    "!If",
+    "!If sequence",
+    "!Not",
+    "!Not sequence",
+    "!Equals",
+    "!Equals sequence",
+    "!Or",
+    "!Or sequence",
+    "!FindInMap",
+    "!FindInMap sequence",
+    "!Base64",
+    "!Join",
+    "!Join sequence",
+    "!Cidr",
+    "!Ref",
+    "!Sub",
+    "!Sub sequence",
+    "!GetAtt",
+    "!GetAZs",
+    "!ImportValue",
+    "!ImportValue sequence",
+    "!Select",
+    "!Select sequence",
+    "!Split",
+    "!Split sequence"
+  ],
+  "task.problemMatchers.neverPrompt": {
+    "shell": true
+  },
+  "githubPullRequests.terminalLinksHandler": "github",
+  "terminal.integrated.showExitAlert": false,
+  "outline.collapseItems": "alwaysCollapse",
+  "jupyter.interactiveWindow.creationMode": "perFile",
+  "jupyter.interactiveWindow.textEditor.executeSelection": false,
+  "vscode-kubernetes.log-viewer.follow": true,
+  "debug.onTaskErrors": "abort",
+  "editor.minimap.autohide": true,
+  "search.seedWithNearestWord": true,
+  "editor.autoClosingQuotes": "never",
+  "codeQL.telemetry.enableTelemetry": false,
+  "cmake.configureOnOpen": false,
+  "githubPullRequests.pullBranch": "never",
+  "editor.autoClosingBrackets": "beforeWhitespace",
+  "editor.find.seedSearchStringFromSelection": "selection",
+  "codesnap.realLineNumbers": true,
+  "codesnap.showWindowTitle": true,
+  "codesnap.shutterAction": "copy",
+  "codesnap.showWindowControls": false,
+  "codesnap.transparentBackground": true,
+  "codesnap.boxShadow": "rgba(0, 0, 0, 0.55) 0px 10px 34px",
+  "codesnap.target": "window",
+  "codesnap-plus.shutterAction": "copy",
+  "codesnap-plus.target": "window",
+  "codesnap-plus.realLineNumbers": true
+}

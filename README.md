@@ -67,8 +67,8 @@ You can bind commands to key shortcuts from the raycast menu.
 I recommend binding the following commands to a key shortcut:
 | Name                                                         | Shortcut                                                                                      |
 | - | - |
-| Clipboard History | `cmd + shift + c` |
-| Search Emoji & Symbols | `cmd + shift + space` |
+| Clipboard History | `cmd + shift + space` |
+| Search Emoji & Symbols | `ctrl + cmd + space` |
 | Window Management / Left Half | `ctrl + option + left` |
 | Window Management / Right Half | `ctrl + option + right` |
 | Window Management / Maximize | `ctrl + option + up` |

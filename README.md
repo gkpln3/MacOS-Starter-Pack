@@ -41,12 +41,13 @@ What you need to know:
         - Right click → Show view options → Always open in list view → Use as default
 
 ## Recommended apps
-| Name                                                         | Description                                                                                                                                                                                                                                                           |
-| ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Raycast](https://raycast.com)                               | The holy grail of all tools, a must have launcher, it handles<br>1. Application launching <br>2. Windows switching<br>3. Windows management<br>4. Base64/Hex encode-decode<br>5. Easy to use MFA<br>6. Clipboard history<br>7. Calculator & converter<br>8. More!<br> |
-| [AltTab](https://alt-tab-macos.netlify.app)                  | A better CMD+Tab, it switches between windows instead of apps.                                                                                                                                                                                                        |
-| [Iterm2](https://iterm2.com)                                 | A much better terminal.<br>Recommended profile: [Default.json](iterm/Default.json)                                                                                                                                                                                                                                               |
-| [CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay) | For some reason there is a delay when you press the caps lock key to activate it, this tool disables it.<br>Also open source and is written by [@gkpln3](https://github.com/gkpln3) 🙂                                                                                  |
+| Name                                                               | Description                                                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Raycast](https://raycast.com)                                     | The holy grail of all tools, a must have launcher, it handles<br>1. Application launching <br>2. Windows switching<br>3. Windows management<br>4. Base64/Hex encode-decode<br>5. Easy to use MFA<br>6. Clipboard history<br>7. Calculator & converter<br>8. More!<br> |
+| [AltTab](https://alt-tab-macos.netlify.app)                        | A better CMD+Tab, it switches between windows instead of apps.                                                                                                                                                                                                        |
+| [Iterm2](https://iterm2.com)                                       | A much better terminal.<br>Recommended profile: [Default.json](iterm/Default.json)                                                                                                                                                                                    |
+| [CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay)       | For some reason there is a delay when you press the caps lock key to activate it, this tool disables it.<br>Also open source and is written by [@gkpln3](https://github.com/gkpln3) 🙂                                                                                 |
+| [MonitorControl](https://github.com/MonitorControl/MonitorControl) | Allows you to control brightness and volume of external monitors through the usual macos keys.                                                                                                                                                                        |
 
 
 ### Terminal stuff
@@ -65,13 +66,13 @@ After you install Raycast, remove the Spotlight keybinding, and bind Raycast to 
 You can bind commands to key shortcuts from the raycast menu.
 
 I recommend binding the following commands to a key shortcut:
-| Name                                                         | Shortcut                                                                                      |
-| - | - |
-| Clipboard History | `cmd + shift + space` |
-| Search Emoji & Symbols | `ctrl + cmd + space` |
-| Window Management / Left Half | `ctrl + option + left` |
+| Name                           | Shortcut                |
+| ------------------------------ | ----------------------- |
+| Clipboard History              | `cmd + shift + space`   |
+| Search Emoji & Symbols         | `ctrl + cmd + space`    |
+| Window Management / Left Half  | `ctrl + option + left`  |
 | Window Management / Right Half | `ctrl + option + right` |
-| Window Management / Maximize | `ctrl + option + up` |
+| Window Management / Maximize   | `ctrl + option + up`    |
 
 #### Recommended Raycast plugins
 Enter “Store” in the Raycast prompt

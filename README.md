@@ -48,6 +48,7 @@ What you need to know:
 | [Iterm2](https://iterm2.com)                                       | A much better terminal.<br>Recommended profile: [Default.json](iterm/Default.json)                                                                                                                                                                                    |
 | [CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay)       | For some reason there is a delay when you press the caps lock key to activate it, this tool disables it.<br>Also open source and is written by [@gkpln3](https://github.com/gkpln3) 🙂                                                                                 |
 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | Allows you to control brightness and volume of external monitors through the usual macos keys.                                                                                                                                                                        |
+| [ImHex](https://github.com/WerWolv/ImHex) | A very nice and advanced hex editor |
 
 
 ### Terminal stuff

@@ -49,8 +49,6 @@ What you need to know:
 | [CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay)       | For some reason there is a delay when you press the caps lock key to activate it, this tool disables it.<br>Also open source and is written by [@gkpln3](https://github.com/gkpln3) 🙂                                                                                 |
 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | Allows you to control brightness and volume of external monitors through the usual macos keys.                                                                                                                                                                        |
 | [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) | Tons of switches for the task bar - also includes sleep prevention |
-| [Itsycal](https://www.mowglii.com/itsycal/) | Small calendar for the taskbar. |
-| [Grab2Text](https://apps.apple.com/us/app/grab2text/id6475956137?mt=12) | OCR for screenshots. |
 
 
 ### Terminal stuff
@@ -62,6 +60,7 @@ What you need to know:
 | bat (batcat)            | Like `cat`, but with syntax highlighting        | `brew install bat`                                                                                |
 | oh-my-zsh               | Better terminal                                 | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"` |
 | qlmarkdown              | Quick look (space in finder) for markdown files | `brew install qlmarkdown`                                                                         |
+| atuin                   | Better terminal history (ctrl-r)                | `curl --proto '=https' --tlsv1.2 -LsSf https://setup.atuin.sh \| sh`                              |
     
     
 ### Raycast
